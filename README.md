@@ -1,2 +1,2 @@
 # ldproxy-design
-Design of the "linked data proxy"/"crawlifier proxy"
+This repository contaits material and issues related to the design of the "linked data proxy"/"crawlifier proxy" in topic 4.
